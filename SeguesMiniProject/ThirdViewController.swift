@@ -18,7 +18,7 @@ class ThirdViewController: UIViewController {
     }
     
     @IBAction func breakfastButton(_ sender: Any) {
-        label.text = "pancake"
+        label.text = "🥞"
     }
     
     @IBAction func lunchButton(_ sender: Any) {

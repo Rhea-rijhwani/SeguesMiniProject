@@ -19,7 +19,7 @@ class FourthViewController: UIViewController {
     
     
     @IBAction func cityButton(_ sender: Any) {
-        label.text = "city"
+        label.text = "🏙"
     }
     
     @IBAction func countryButton(_ sender: Any) {
